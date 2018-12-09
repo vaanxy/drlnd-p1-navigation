@@ -39,7 +39,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 4. In the new python environment install dependencies listed in the **requirements.txt** file
 
 5. Clone Unity ML-Agents [GitHub repository](https://github.com/Unity-Technologies/ml-agents).
-6. The Unity ML-Agent team frequently releases updated versions of their environment. We are using the** v0.4** interface. Please checkout to v0.4 and install the Unity ML-Agent. [Installation Instructions](https://github.com/Unity-Technologies/ml-agents/blob/0.4.0b/docs/Installation.md)
+6. The Unity ML-Agent team frequently releases updated versions of their environment. We are using the **v0.4** interface. Please checkout to v0.4 and install the Unity ML-Agent. [Installation Instructions](https://github.com/Unity-Technologies/ml-agents/blob/0.4.0b/docs/Installation.md)
 
 ### Instructions
 
